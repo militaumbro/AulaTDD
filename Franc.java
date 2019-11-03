@@ -1,5 +1,5 @@
 class Franc {   
-   Franc(int amount) {      
+    Franc(int amount) {      
       this.amount= amount;
     }					
     Franc times(int multiplier)  {      
